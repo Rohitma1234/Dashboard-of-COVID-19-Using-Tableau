@@ -22,6 +22,9 @@ Please note that this dashboard is meant for informational purposes only and sho
 Start exploring the COVID-19 situation in India with this powerful Tableau dashboard today! Stay informed and stay safe.
 
 
+![Screenshot 2023-07-03 165520](https://github.com/Rohitma1234/Dashboard-of-COVID-19-Using-Tableau/assets/106877527/a2dd8722-6fdf-4ad9-82e6-988527681b12)
+
+
 
 
 
