@@ -21,6 +21,7 @@ Please note that this dashboard is meant for informational purposes only and sho
 
 Start exploring the COVID-19 situation in India with this powerful Tableau dashboard today! Stay informed and stay safe.
 
+[data analysis in covid 19.pdf](https://github.com/Rohitma1234/Dashboard-of-COVID-19-Using-Tableau/files/11936334/data.analysis.in.covid.19.pdf)
 
 
 
